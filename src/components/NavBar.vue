@@ -5,7 +5,7 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <a class="nav-link" href="/">Home</a>
             </li>
@@ -35,9 +35,9 @@
 
 <style scoped>
     a{
-        color: white;
+        color: antiquewhite;
         font-size: 20px;
-        text-shadow: 3px 3px 3px grey;
+        text-shadow: 3px 3px 3px black;
     }
 
     a:hover{

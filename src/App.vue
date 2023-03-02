@@ -34,4 +34,11 @@ export default {
   min-height: 100vh;
 }
 
+#home,#about,#merch{
+  min-height: 100vh;
+}
+
+#about{
+  background-color: antiquewhite;
+}
 </style>
